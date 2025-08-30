@@ -48,7 +48,7 @@ The project was carried out as part of the "Autonomous and Adaptive Systems" cou
  
  Clone the repo
    ```sh
-   git clone https://github.com/alessandrablasioli/JHON-AI.git
+   git clone https://github.com/alessandrablasioli/AAS-Exam-Project-Generalizing-PPO-with-Procgen.git
    ```
 
 <!-- CONTRIBUTING -->
