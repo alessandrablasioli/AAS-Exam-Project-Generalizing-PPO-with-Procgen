@@ -6,7 +6,7 @@
 
 <h3 align="center">Generalizing PPO with Procgen</h3>
 
-  <p align="center">
+<p align="center">
 Procedural generation in reinforcement learning (RL) environments is a powerful
 tool to test agents’ ability to generalize beyond memorized behaviors. In this
 project I apply Proximal Policy Optimization (PPO), a widely used on-policy RL
@@ -26,14 +26,11 @@ metrics, used to assess training stability and generalization.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-![Product Name Screen Shot][product-screenshot]
-
 Generalization in RL remains challenging, particularly when agents are trained in environments where
-experiences repeat. The Procgen Benchmark [1 ] addresses this by generating new levels for each
+experiences repeat. The Procgen Benchmark addresses this by generating new levels for each
 episode using procedural content generation. Sixteen such environments test both sample efficiency
 and generalization, making them ideal for evaluating RL algorithms under diverse conditions.
-PPO [2 ] is a popular policy-gradient method thanks to its balance of sample efficiency and optimiza-
+PPO is a popular policy-gradient method thanks to its balance of sample efficiency and optimiza-
 tion stability. Prior studies have demonstrated PPO’s performance on the complete Procgen suite.
 However, comparative analyses across diverse games, emphasizing per-environment behavior, remain
 valuable for understanding strengths and weaknesses.
