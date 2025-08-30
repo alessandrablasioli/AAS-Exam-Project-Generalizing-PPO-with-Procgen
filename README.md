@@ -1,10 +1,26 @@
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/github_username/repo_name">
-  </a>
 
-<h3 align="center">Generalizing PPO with Procgen</h3>
+
+<h1 align="center">Generalizing PPO with Procgen</h1>
+
+<div align="center">
+ <figure>
+    <img src="https://raw.githubusercontent.com/openai/procgen/master/screenshots/starpilot.png" alt="Star Pilot" width="150"/>
+  </figure>
+
+
+  <figure>
+    <img src="https://raw.githubusercontent.com/openai/procgen/master/screenshots/caveflyer.png" alt="Cave Flyer" width="150"/>
+  </figure>
+
+  <figure>
+    <img src="https://raw.githubusercontent.com/openai/procgen/master/screenshots/coinrun.png" alt="Coin Run" width="150"/>
+  </figure>
+  
+ <figure>
+    <img src="https://raw.githubusercontent.com/openai/procgen/master/screenshots/bigfish.png" alt="Big Fish" width="150"/>
+  </figure>
+</div>
 
 <p align="center">
 Procedural generation in reinforcement learning (RL) environments is a powerful
