@@ -14,7 +14,6 @@ algorithm, to a subset of the Procgen Benchmark, training agents in four visuall
 and cognitively distinct games: StarPilot, CaveFlyer, CoinRun, and BigFish. This
 report details the network architectures, algorithmic decisions and the evaluation
 metrics, used to assess training stability and generalization.
-    <a href="https://github.com/alessandrablasioli/JHON-AI/tree/main/recommendation"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     ·
