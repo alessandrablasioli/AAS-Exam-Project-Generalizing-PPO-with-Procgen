@@ -1,0 +1,725 @@
+C:\Users\Acer\anaconda3\lib\site-packages\gym\utils\passive_env_checker.py:174: UserWarning: [33mWARN: Future gym versions will require that `Env.reset` can be passed a `seed` instead of using `Env.seed` for resetting the environment random number generator.
+  logger.warn(
+C:\Users\Acer\anaconda3\lib\site-packages\gym\utils\passive_env_checker.py:187: UserWarning: [33mWARN: Future gym versions will require that `Env.reset` can be passed `options` to allow the environment initialisation to be passed additional information.
+  logger.warn(
+C:\Users\Acer\anaconda3\lib\site-packages\gym\utils\passive_env_checker.py:195: UserWarning: [33mWARN: The result returned by `env.reset()` was not a tuple of the form `(obs, info)`, where `obs` is a observation and `info` is a dictionary containing additional information. Actual type: `<class 'numpy.ndarray'>`
+  logger.warn(
+C:\Users\Acer\anaconda3\lib\site-packages\gym\utils\passive_env_checker.py:219: DeprecationWarning: [33mWARN: Core environment is written in old step API which returns one bool instead of two. It is recommended to rewrite the environment with new step API. 
+  logger.deprecation(
+C:\Users\Acer\anaconda3\lib\site-packages\gym\utils\passive_env_checker.py:225: DeprecationWarning: `np.bool8` is a deprecated alias for `np.bool_`.  (Deprecated NumPy 1.24)
+  if not isinstance(done, (bool, np.bool8)):
+[EVAL] coinrun - Update 0 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 10 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 20 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 30 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 40 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 50 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 60 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 70 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 80 - Reward: 2.00 ± 4.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 90 - Reward: 1.00 ± 3.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 100 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 110 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 120 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 130 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 140 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 150 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 160 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 170 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 180 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 190 - Reward: 1.00 ± 3.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 200 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 210 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 220 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 230 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 240 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 250 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 260 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 270 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 280 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 290 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 300 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 310 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 320 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 330 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 340 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 350 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 360 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 370 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 380 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 390 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 400 - Reward: 1.00 ± 3.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 410 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 420 - Reward: 3.00 ± 4.58
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 430 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 440 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 450 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 460 - Reward: 1.00 ± 3.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 470 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 480 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 490 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 500 - Reward: 3.00 ± 4.58
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 510 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 520 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 530 - Reward: 1.00 ± 3.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 540 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 550 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 560 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 570 - Reward: 2.00 ± 4.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 580 - Reward: 1.00 ± 3.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 590 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] coinrun - Update 600 - Reward: 2.00 ± 4.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Traceback (most recent call last):
+  File "C:\Users\Acer\Documents\GitHub\aas\final.py", line 246, in <module>
+    mean_r, std_r = evaluate(agent, env_name, num_episodes=10, render=False)
+  File "C:\Users\Acer\Documents\GitHub\aas\final.py", line 194, in evaluate
+    probs = agent.actor(np.expand_dims(obs_norm, axis=0))
+  File "C:\Users\Acer\anaconda3\lib\site-packages\keras\utils\traceback_utils.py", line 65, in error_handler
+    return fn(*args, **kwargs)
+  File "C:\Users\Acer\anaconda3\lib\site-packages\keras\engine\training.py", line 557, in __call__
+    return super().__call__(*args, **kwargs)
+  File "C:\Users\Acer\anaconda3\lib\site-packages\keras\utils\traceback_utils.py", line 65, in error_handler
+    return fn(*args, **kwargs)
+  File "C:\Users\Acer\anaconda3\lib\site-packages\keras\engine\base_layer.py", line 1097, in __call__
+    outputs = call_fn(inputs, *args, **kwargs)
+  File "C:\Users\Acer\anaconda3\lib\site-packages\keras\utils\traceback_utils.py", line 96, in error_handler
+    return fn(*args, **kwargs)
+  File "C:\Users\Acer\anaconda3\lib\site-packages\keras\engine\sequential.py", line 410, in call
+    return super().call(inputs, training=training, mask=mask)
+  File "C:\Users\Acer\anaconda3\lib\site-packages\keras\engine\functional.py", line 510, in call
+    return self._run_internal_graph(inputs, training=training, mask=mask)
+  File "C:\Users\Acer\anaconda3\lib\site-packages\keras\engine\functional.py", line 667, in _run_internal_graph
+    outputs = node.layer(*args, **kwargs)
+  File "C:\Users\Acer\anaconda3\lib\site-packages\keras\utils\traceback_utils.py", line 65, in error_handler
+    return fn(*args, **kwargs)
+  File "C:\Users\Acer\anaconda3\lib\site-packages\keras\engine\base_layer.py", line 1097, in __call__
+    outputs = call_fn(inputs, *args, **kwargs)
+  File "C:\Users\Acer\anaconda3\lib\site-packages\keras\utils\traceback_utils.py", line 96, in error_handler
+    return fn(*args, **kwargs)
+  File "C:\Users\Acer\anaconda3\lib\site-packages\keras\layers\convolutional\base_conv.py", line 314, in call
+    return self.activation(outputs)
+  File "C:\Users\Acer\anaconda3\lib\site-packages\tensorflow\python\util\traceback_utils.py", line 150, in error_handler
+    return fn(*args, **kwargs)
+  File "C:\Users\Acer\anaconda3\lib\site-packages\tensorflow\python\util\dispatch.py", line 1176, in op_dispatch_handler
+    return dispatch_target(*args, **kwargs)
+  File "C:\Users\Acer\anaconda3\lib\site-packages\keras\activations.py", line 317, in relu
+    return backend.relu(
+  File "C:\Users\Acer\anaconda3\lib\site-packages\tensorflow\python\util\traceback_utils.py", line 150, in error_handler
+    return fn(*args, **kwargs)
+  File "C:\Users\Acer\anaconda3\lib\site-packages\tensorflow\python\util\dispatch.py", line 1176, in op_dispatch_handler
+    return dispatch_target(*args, **kwargs)
+  File "C:\Users\Acer\anaconda3\lib\site-packages\keras\backend.py", line 5366, in relu
+    x = tf.nn.relu(x)
+  File "C:\Users\Acer\anaconda3\lib\site-packages\tensorflow\python\ops\gen_nn_ops.py", line 10710, in relu
+    _result = pywrap_tfe.TFE_Py_FastPathExecute(
+KeyboardInterrupt

@@ -1,0 +1,1098 @@
+C:\Users\Acer\anaconda3\lib\site-packages\gym\utils\passive_env_checker.py:174: UserWarning: [33mWARN: Future gym versions will require that `Env.reset` can be passed a `seed` instead of using `Env.seed` for resetting the environment random number generator.
+  logger.warn(
+C:\Users\Acer\anaconda3\lib\site-packages\gym\utils\passive_env_checker.py:187: UserWarning: [33mWARN: Future gym versions will require that `Env.reset` can be passed `options` to allow the environment initialisation to be passed additional information.
+  logger.warn(
+C:\Users\Acer\anaconda3\lib\site-packages\gym\utils\passive_env_checker.py:195: UserWarning: [33mWARN: The result returned by `env.reset()` was not a tuple of the form `(obs, info)`, where `obs` is a observation and `info` is a dictionary containing additional information. Actual type: `<class 'numpy.ndarray'>`
+  logger.warn(
+C:\Users\Acer\anaconda3\lib\site-packages\gym\utils\passive_env_checker.py:219: DeprecationWarning: [33mWARN: Core environment is written in old step API which returns one bool instead of two. It is recommended to rewrite the environment with new step API. 
+  logger.deprecation(
+C:\Users\Acer\anaconda3\lib\site-packages\gym\utils\passive_env_checker.py:225: DeprecationWarning: `np.bool8` is a deprecated alias for `np.bool_`.  (Deprecated NumPy 1.24)
+  if not isinstance(done, (bool, np.bool8)):
+[EVAL] starpilot - Update 0 - Reward: 0.20 ± 0.40
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 10 - Reward: 0.20 ± 0.40
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 20 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 30 - Reward: 0.40 ± 0.92
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 40 - Reward: 0.50 ± 0.92
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 50 - Reward: 0.30 ± 0.64
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 60 - Reward: 1.40 ± 1.96
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 70 - Reward: 0.80 ± 0.87
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 80 - Reward: 0.20 ± 0.40
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 90 - Reward: 0.10 ± 0.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 100 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 110 - Reward: 0.30 ± 0.46
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 120 - Reward: 1.30 ± 1.19
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 130 - Reward: 1.90 ± 1.97
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 140 - Reward: 0.30 ± 0.64
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 150 - Reward: 0.40 ± 1.20
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 160 - Reward: 0.50 ± 1.02
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 170 - Reward: 0.30 ± 0.64
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 180 - Reward: 0.10 ± 0.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 190 - Reward: 0.60 ± 1.20
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 200 - Reward: 0.20 ± 0.40
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 210 - Reward: 0.30 ± 0.90
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 220 - Reward: 1.00 ± 1.41
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 230 - Reward: 0.10 ± 0.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 240 - Reward: 0.50 ± 0.67
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 250 - Reward: 0.60 ± 0.92
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 260 - Reward: 1.20 ± 1.17
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 270 - Reward: 1.30 ± 2.10
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 280 - Reward: 1.00 ± 1.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 290 - Reward: 0.30 ± 0.64
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 300 - Reward: 0.90 ± 1.14
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 310 - Reward: 0.90 ± 1.14
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 320 - Reward: 0.90 ± 1.45
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 330 - Reward: 1.40 ± 1.28
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 340 - Reward: 0.90 ± 0.94
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 350 - Reward: 0.80 ± 0.98
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 360 - Reward: 1.20 ± 1.83
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 370 - Reward: 0.80 ± 0.98
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 380 - Reward: 0.50 ± 0.81
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 390 - Reward: 0.70 ± 0.78
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 400 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 410 - Reward: 1.10 ± 1.14
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 420 - Reward: 0.70 ± 0.90
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 430 - Reward: 0.60 ± 0.66
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 440 - Reward: 1.30 ± 1.55
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 450 - Reward: 0.70 ± 1.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 460 - Reward: 0.60 ± 0.66
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 470 - Reward: 0.10 ± 0.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 480 - Reward: 1.90 ± 1.97
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 490 - Reward: 1.00 ± 0.89
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 500 - Reward: 0.20 ± 0.60
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 510 - Reward: 0.60 ± 1.20
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 520 - Reward: 2.10 ± 3.51
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 530 - Reward: 1.00 ± 1.34
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 540 - Reward: 0.30 ± 0.64
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 550 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 560 - Reward: 0.20 ± 0.60
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 570 - Reward: 0.30 ± 0.64
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 580 - Reward: 0.60 ± 0.92
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 590 - Reward: 1.20 ± 1.17
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 600 - Reward: 0.20 ± 0.40
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 610 - Reward: 0.30 ± 0.90
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 620 - Reward: 1.30 ± 1.73
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 630 - Reward: 0.50 ± 0.92
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 640 - Reward: 1.10 ± 1.22
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 650 - Reward: 0.90 ± 0.94
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 660 - Reward: 1.20 ± 1.08
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 670 - Reward: 1.00 ± 1.26
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 680 - Reward: 1.60 ± 1.85
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 690 - Reward: 0.50 ± 0.92
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 700 - Reward: 0.90 ± 2.39
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 710 - Reward: 1.00 ± 1.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 720 - Reward: 1.00 ± 1.26
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 730 - Reward: 0.30 ± 0.64
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 740 - Reward: 0.80 ± 0.98
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 750 - Reward: 0.30 ± 0.46
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 760 - Reward: 0.50 ± 0.67
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 770 - Reward: 2.20 ± 3.03
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 780 - Reward: 1.00 ± 1.61
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 790 - Reward: 0.50 ± 0.92
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 800 - Reward: 0.80 ± 1.25
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 810 - Reward: 1.30 ± 1.49
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 820 - Reward: 0.50 ± 0.50
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 830 - Reward: 1.30 ± 1.95
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 840 - Reward: 0.60 ± 1.02
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 850 - Reward: 0.40 ± 0.80
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 860 - Reward: 0.20 ± 0.40
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 870 - Reward: 1.80 ± 2.86
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 880 - Reward: 1.30 ± 1.27
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 890 - Reward: 1.30 ± 1.27
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 900 - Reward: 2.20 ± 3.28
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 910 - Reward: 0.80 ± 0.87
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 920 - Reward: 1.90 ± 2.95
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 930 - Reward: 0.30 ± 0.64
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 940 - Reward: 2.00 ± 1.61
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 950 - Reward: 0.70 ± 1.49
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 960 - Reward: 1.20 ± 1.72
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 970 - Reward: 0.40 ± 0.66
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 980 - Reward: 0.60 ± 0.80
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] starpilot - Update 990 - Reward: 0.90 ± 1.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored

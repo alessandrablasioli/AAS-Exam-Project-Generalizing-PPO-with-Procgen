@@ -54,7 +54,7 @@ class PPOAgent:
             adv[t] = gae
         return adv
 
-    def update(self, states, actions, returns, advantages, old_logp, ppo_epochs=4, minibatch_size=2048, entropy_coef=0.02, value_coef=1.0):
+    def update(self, states, actions, returns, advantages, old_logp, ppo_epochs=4, minibatch_size=32, entropy_coef=0.02, value_coef=1.0):
         advantages = (advantages - advantages.mean()) / (advantages.std() + 1e-8)
         advantages = advantages.astype(np.float32)
         returns = returns.astype(np.float32)

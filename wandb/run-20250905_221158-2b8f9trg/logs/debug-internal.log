@@ -1,0 +1,79 @@
+2025-09-05 22:11:58,731 INFO    StreamThr :19396 [internal.py:wandb_internal():86] W&B internal server running at pid: 19396, started at: 2025-09-05 22:11:58.731042
+2025-09-05 22:11:58,741 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: status
+2025-09-05 22:11:58,741 INFO    WriterThread:19396 [datastore.py:open_for_write():85] open: C:\Users\Acer\Documents\GitHub\aas\wandb\run-20250905_221158-2b8f9trg\run-2b8f9trg.wandb
+2025-09-05 22:11:58,741 DEBUG   SenderThread:19396 [sender.py:send():380] send: header
+2025-09-05 22:11:58,741 DEBUG   SenderThread:19396 [sender.py:send():380] send: run
+2025-09-05 22:11:59,359 INFO    SenderThread:19396 [dir_watcher.py:__init__():211] watching files in: C:\Users\Acer\Documents\GitHub\aas\wandb\run-20250905_221158-2b8f9trg\files
+2025-09-05 22:11:59,359 INFO    SenderThread:19396 [sender.py:_start_run_threads():1122] run started: 2b8f9trg with start time 1757103118.74152
+2025-09-05 22:11:59,372 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: check_version
+2025-09-05 22:11:59,373 DEBUG   SenderThread:19396 [sender.py:send_request():407] send_request: check_version
+2025-09-05 22:11:59,494 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: run_start
+2025-09-05 22:11:59,525 DEBUG   HandlerThread:19396 [system_info.py:__init__():32] System info init
+2025-09-05 22:11:59,525 DEBUG   HandlerThread:19396 [system_info.py:__init__():47] System info init done
+2025-09-05 22:11:59,525 INFO    HandlerThread:19396 [system_monitor.py:start():194] Starting system monitor
+2025-09-05 22:11:59,525 INFO    SystemMonitor:19396 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2025-09-05 22:11:59,525 INFO    HandlerThread:19396 [system_monitor.py:probe():214] Collecting system info
+2025-09-05 22:11:59,525 INFO    SystemMonitor:19396 [interfaces.py:start():190] Started cpu monitoring
+2025-09-05 22:11:59,525 INFO    SystemMonitor:19396 [interfaces.py:start():190] Started disk monitoring
+2025-09-05 22:11:59,525 INFO    SystemMonitor:19396 [interfaces.py:start():190] Started gpu monitoring
+2025-09-05 22:11:59,525 INFO    SystemMonitor:19396 [interfaces.py:start():190] Started memory monitoring
+2025-09-05 22:11:59,535 INFO    SystemMonitor:19396 [interfaces.py:start():190] Started network monitoring
+2025-09-05 22:11:59,545 DEBUG   HandlerThread:19396 [system_info.py:probe():196] Probing system
+2025-09-05 22:11:59,545 DEBUG   HandlerThread:19396 [system_info.py:probe():244] Probing system done
+2025-09-05 22:11:59,545 DEBUG   HandlerThread:19396 [system_monitor.py:probe():223] {'os': 'Windows-10-10.0.26100-SP0', 'python': '3.10.16', 'heartbeatAt': '2025-09-05T20:11:59.545141', 'startedAt': '2025-09-05T20:11:58.721539', 'docker': None, 'cuda': None, 'args': (), 'state': 'running', 'program': 'C:\\Users\\Acer\\Documents\\GitHub\\aas\\final.py', 'codePathLocal': 'final.py', 'codePath': 'final.py', 'host': 'LAPTOP-S9UNHB86', 'username': 'Acer', 'executable': 'C:\\Users\\Acer\\anaconda3\\python.exe', 'cpu_count': 8, 'cpu_count_logical': 16, 'cpu_freq': {'current': 2304.0, 'min': 0.0, 'max': 2304.0}, 'cpu_freq_per_core': [{'current': 2304.0, 'min': 0.0, 'max': 2304.0}], 'disk': {'/': {'total': 952.6718711853027, 'used': 548.0064315795898}}, 'gpu': 'NVIDIA GeForce RTX 3060 Laptop GPU', 'gpu_count': 1, 'gpu_devices': [{'name': 'NVIDIA GeForce RTX 3060 Laptop GPU', 'memory_total': 6442450944}], 'memory': {'total': 15.768852233886719}}
+2025-09-05 22:11:59,545 INFO    HandlerThread:19396 [system_monitor.py:probe():224] Finished collecting system info
+2025-09-05 22:11:59,545 INFO    HandlerThread:19396 [system_monitor.py:probe():227] Publishing system info
+2025-09-05 22:11:59,545 DEBUG   HandlerThread:19396 [system_info.py:_save_pip():52] Saving list of pip packages installed into the current environment
+2025-09-05 22:11:59,545 DEBUG   HandlerThread:19396 [system_info.py:_save_pip():68] Saving pip packages done
+2025-09-05 22:11:59,545 DEBUG   HandlerThread:19396 [system_info.py:_save_conda():75] Saving list of conda packages installed into the current environment
+2025-09-05 22:12:00,367 INFO    Thread-12 :19396 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\Acer\Documents\GitHub\aas\wandb\run-20250905_221158-2b8f9trg\files\conda-environment.yaml
+2025-09-05 22:12:00,367 INFO    Thread-12 :19396 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\Acer\Documents\GitHub\aas\wandb\run-20250905_221158-2b8f9trg\files\requirements.txt
+2025-09-05 22:12:14,325 DEBUG   HandlerThread:19396 [system_info.py:_save_conda():87] Saving conda packages done
+2025-09-05 22:12:14,325 INFO    HandlerThread:19396 [system_monitor.py:probe():229] Finished publishing system info
+2025-09-05 22:12:14,443 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: status_report
+2025-09-05 22:12:14,443 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: keepalive
+2025-09-05 22:12:14,443 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: status_report
+2025-09-05 22:12:14,444 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: keepalive
+2025-09-05 22:12:14,444 DEBUG   SenderThread:19396 [sender.py:send():380] send: files
+2025-09-05 22:12:14,444 INFO    SenderThread:19396 [sender.py:_save_file():1378] saving file wandb-metadata.json with policy now
+2025-09-05 22:12:14,450 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: stop_status
+2025-09-05 22:12:14,450 DEBUG   SenderThread:19396 [sender.py:send_request():407] send_request: stop_status
+2025-09-05 22:12:14,451 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: internal_messages
+2025-09-05 22:12:14,457 INFO    Thread-12 :19396 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\Acer\Documents\GitHub\aas\wandb\run-20250905_221158-2b8f9trg\files\conda-environment.yaml
+2025-09-05 22:12:14,457 INFO    Thread-12 :19396 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\Acer\Documents\GitHub\aas\wandb\run-20250905_221158-2b8f9trg\files\wandb-metadata.json
+2025-09-05 22:12:14,699 DEBUG   SenderThread:19396 [sender.py:send():380] send: telemetry
+2025-09-05 22:12:14,699 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: status_report
+2025-09-05 22:12:15,309 INFO    wandb-upload_0:19396 [upload_job.py:push():131] Uploaded file C:\Users\Acer\AppData\Local\Temp\tmp1m7h4ecowandb\cpl2qciy-wandb-metadata.json
+2025-09-05 22:12:15,464 INFO    Thread-12 :19396 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\Acer\Documents\GitHub\aas\wandb\run-20250905_221158-2b8f9trg\files\output.log
+2025-09-05 22:12:17,482 INFO    Thread-12 :19396 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\Acer\Documents\GitHub\aas\wandb\run-20250905_221158-2b8f9trg\files\output.log
+2025-09-05 22:12:19,733 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: status_report
+2025-09-05 22:12:25,485 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: status_report
+2025-09-05 22:12:25,544 INFO    Thread-12 :19396 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\Acer\Documents\GitHub\aas\wandb\run-20250905_221158-2b8f9trg\files\output.log
+2025-09-05 22:12:29,451 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: stop_status
+2025-09-05 22:12:29,451 DEBUG   SenderThread:19396 [sender.py:send_request():407] send_request: stop_status
+2025-09-05 22:12:29,453 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: internal_messages
+2025-09-05 22:12:30,657 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: status_report
+2025-09-05 22:12:31,579 INFO    Thread-12 :19396 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\Acer\Documents\GitHub\aas\wandb\run-20250905_221158-2b8f9trg\files\config.yaml
+2025-09-05 22:12:35,780 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: partial_history
+2025-09-05 22:12:35,781 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: partial_history
+2025-09-05 22:12:35,781 DEBUG   SenderThread:19396 [sender.py:send():380] send: history
+2025-09-05 22:12:35,782 DEBUG   SenderThread:19396 [sender.py:send_request():407] send_request: summary_record
+2025-09-05 22:12:35,783 INFO    SenderThread:19396 [sender.py:_save_file():1378] saving file wandb-summary.json with policy end
+2025-09-05 22:12:35,783 DEBUG   SenderThread:19396 [sender.py:send():380] send: history
+2025-09-05 22:12:35,783 DEBUG   SenderThread:19396 [sender.py:send_request():407] send_request: summary_record
+2025-09-05 22:12:35,784 INFO    SenderThread:19396 [sender.py:_save_file():1378] saving file wandb-summary.json with policy end
+2025-09-05 22:12:36,534 INFO    Thread-12 :19396 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\Acer\Documents\GitHub\aas\wandb\run-20250905_221158-2b8f9trg\files\wandb-summary.json
+2025-09-05 22:12:36,793 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: status_report
+2025-09-05 22:12:41,826 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: status_report
+2025-09-05 22:12:44,451 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: stop_status
+2025-09-05 22:12:44,451 DEBUG   SenderThread:19396 [sender.py:send_request():407] send_request: stop_status
+2025-09-05 22:12:44,467 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: internal_messages
+2025-09-05 22:12:47,741 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: status_report
+2025-09-05 22:12:52,790 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: status_report
+2025-09-05 22:12:57,817 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: status_report
+2025-09-05 22:12:59,462 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: stop_status
+2025-09-05 22:12:59,462 DEBUG   SenderThread:19396 [sender.py:send_request():407] send_request: stop_status
+2025-09-05 22:12:59,478 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: internal_messages
+2025-09-05 22:12:59,557 DEBUG   SystemMonitor:19396 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2025-09-05 22:12:59,756 DEBUG   SenderThread:19396 [sender.py:send():380] send: stats
+2025-09-05 22:13:03,793 DEBUG   HandlerThread:19396 [handler.py:handle_request():146] handle_request: status_report

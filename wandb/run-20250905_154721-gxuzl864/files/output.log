@@ -1,0 +1,1107 @@
+C:\Users\Acer\anaconda3\lib\site-packages\gym\utils\passive_env_checker.py:174: UserWarning: [33mWARN: Future gym versions will require that `Env.reset` can be passed a `seed` instead of using `Env.seed` for resetting the environment random number generator.
+  logger.warn(
+C:\Users\Acer\anaconda3\lib\site-packages\gym\utils\passive_env_checker.py:187: UserWarning: [33mWARN: Future gym versions will require that `Env.reset` can be passed `options` to allow the environment initialisation to be passed additional information.
+  logger.warn(
+C:\Users\Acer\anaconda3\lib\site-packages\gym\utils\passive_env_checker.py:195: UserWarning: [33mWARN: The result returned by `env.reset()` was not a tuple of the form `(obs, info)`, where `obs` is a observation and `info` is a dictionary containing additional information. Actual type: `<class 'numpy.ndarray'>`
+  logger.warn(
+C:\Users\Acer\anaconda3\lib\site-packages\gym\utils\passive_env_checker.py:219: DeprecationWarning: [33mWARN: Core environment is written in old step API which returns one bool instead of two. It is recommended to rewrite the environment with new step API. 
+  logger.deprecation(
+C:\Users\Acer\anaconda3\lib\site-packages\gym\utils\passive_env_checker.py:225: DeprecationWarning: `np.bool8` is a deprecated alias for `np.bool_`.  (Deprecated NumPy 1.24)
+  if not isinstance(done, (bool, np.bool8)):
+[EVAL] caveflyer - Update 0 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 10 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 20 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 30 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 40 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 50 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 60 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 70 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 80 - Reward: 1.00 ± 3.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 90 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 100 - Reward: 1.00 ± 3.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 110 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 120 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 130 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 140 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 150 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 160 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 170 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 180 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 190 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 200 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 210 - Reward: 1.00 ± 3.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 220 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 230 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 240 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 250 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 260 - Reward: 1.00 ± 3.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 270 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 280 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 290 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 300 - Reward: 0.30 ± 0.90
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 310 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 320 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 330 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 340 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 350 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 360 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 370 - Reward: 0.30 ± 0.90
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 380 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 390 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 400 - Reward: 1.00 ± 3.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 410 - Reward: 1.00 ± 3.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 420 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 430 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 440 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 450 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 460 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 470 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 480 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 490 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 500 - Reward: 1.00 ± 3.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 510 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 520 - Reward: 2.00 ± 4.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 530 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 540 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 550 - Reward: 1.00 ± 3.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 560 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 570 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 580 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 590 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 600 - Reward: 1.00 ± 3.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 610 - Reward: 1.00 ± 3.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 620 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 630 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 640 - Reward: 1.00 ± 3.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 650 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 660 - Reward: 1.00 ± 3.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 670 - Reward: 1.00 ± 3.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 680 - Reward: 1.00 ± 3.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 690 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 700 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 710 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 720 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 730 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 740 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 750 - Reward: 1.00 ± 3.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 760 - Reward: 1.00 ± 3.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 770 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 780 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 790 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 800 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 810 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 820 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 830 - Reward: 1.00 ± 3.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 840 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 850 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 860 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 870 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 880 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 890 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 900 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 910 - Reward: 1.00 ± 3.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 920 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 930 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 940 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 950 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 960 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 970 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 980 - Reward: 1.00 ± 3.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] caveflyer - Update 990 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored

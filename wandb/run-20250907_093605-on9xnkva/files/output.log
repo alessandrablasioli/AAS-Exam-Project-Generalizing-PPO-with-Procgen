@@ -1,0 +1,1099 @@
+C:\Users\Acer\anaconda3\lib\site-packages\gym\utils\passive_env_checker.py:174: UserWarning: [33mWARN: Future gym versions will require that `Env.reset` can be passed a `seed` instead of using `Env.seed` for resetting the environment random number generator.
+  logger.warn(
+C:\Users\Acer\anaconda3\lib\site-packages\gym\utils\passive_env_checker.py:187: UserWarning: [33mWARN: Future gym versions will require that `Env.reset` can be passed `options` to allow the environment initialisation to be passed additional information.
+  logger.warn(
+C:\Users\Acer\anaconda3\lib\site-packages\gym\utils\passive_env_checker.py:195: UserWarning: [33mWARN: The result returned by `env.reset()` was not a tuple of the form `(obs, info)`, where `obs` is a observation and `info` is a dictionary containing additional information. Actual type: `<class 'numpy.ndarray'>`
+  logger.warn(
+C:\Users\Acer\anaconda3\lib\site-packages\gym\utils\passive_env_checker.py:219: DeprecationWarning: [33mWARN: Core environment is written in old step API which returns one bool instead of two. It is recommended to rewrite the environment with new step API. 
+  logger.deprecation(
+C:\Users\Acer\anaconda3\lib\site-packages\gym\utils\passive_env_checker.py:225: DeprecationWarning: `np.bool8` is a deprecated alias for `np.bool_`.  (Deprecated NumPy 1.24)
+  if not isinstance(done, (bool, np.bool8)):
+[EVAL] bigfish - Update 0 - Reward: 0.70 ± 0.90
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 10 - Reward: 0.10 ± 0.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 20 - Reward: 1.80 ± 2.32
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 30 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 40 - Reward: 1.10 ± 1.64
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 50 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 60 - Reward: 0.20 ± 0.40
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 70 - Reward: 0.60 ± 0.80
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 80 - Reward: 0.30 ± 0.46
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 90 - Reward: 0.20 ± 0.60
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 100 - Reward: 0.20 ± 0.40
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 110 - Reward: 0.20 ± 0.40
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 120 - Reward: 0.10 ± 0.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 130 - Reward: 0.20 ± 0.40
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 140 - Reward: 0.30 ± 0.46
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 150 - Reward: 0.20 ± 0.40
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 160 - Reward: 0.20 ± 0.40
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 170 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 180 - Reward: 0.10 ± 0.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 190 - Reward: 0.70 ± 1.49
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 200 - Reward: 0.20 ± 0.40
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 210 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 220 - Reward: 0.10 ± 0.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 230 - Reward: 0.40 ± 0.80
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 240 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 250 - Reward: 0.20 ± 0.60
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 260 - Reward: 0.20 ± 0.60
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 270 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 280 - Reward: 0.40 ± 0.92
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 290 - Reward: 0.30 ± 0.90
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 300 - Reward: 0.30 ± 0.46
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 310 - Reward: 0.20 ± 0.40
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 320 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 330 - Reward: 0.20 ± 0.40
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 340 - Reward: 0.20 ± 0.40
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 350 - Reward: 0.20 ± 0.40
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 360 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 370 - Reward: 0.10 ± 0.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 380 - Reward: 0.30 ± 0.64
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 390 - Reward: 0.50 ± 0.67
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 400 - Reward: 0.20 ± 0.60
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 410 - Reward: 0.40 ± 1.20
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 420 - Reward: 0.30 ± 0.46
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 430 - Reward: 0.30 ± 0.64
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 440 - Reward: 0.40 ± 0.66
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 450 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 460 - Reward: 0.10 ± 0.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 470 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 480 - Reward: 0.10 ± 0.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 490 - Reward: 0.10 ± 0.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 500 - Reward: 0.10 ± 0.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 510 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 520 - Reward: 0.10 ± 0.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 530 - Reward: 0.40 ± 0.66
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 540 - Reward: 0.20 ± 0.40
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 550 - Reward: 0.30 ± 0.46
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 560 - Reward: 0.50 ± 1.20
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 570 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 580 - Reward: 0.10 ± 0.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 590 - Reward: 0.30 ± 0.64
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 600 - Reward: 0.10 ± 0.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 610 - Reward: 0.10 ± 0.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 620 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 630 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 640 - Reward: 0.20 ± 0.40
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 650 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 660 - Reward: 0.10 ± 0.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 670 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 680 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 690 - Reward: 0.10 ± 0.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 700 - Reward: 0.50 ± 1.02
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 710 - Reward: 0.30 ± 0.46
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 720 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 730 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 740 - Reward: 0.40 ± 0.49
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 750 - Reward: 0.30 ± 0.46
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 760 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 770 - Reward: 0.40 ± 0.66
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 780 - Reward: 1.90 ± 3.08
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 790 - Reward: 0.30 ± 0.64
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 800 - Reward: 0.10 ± 0.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 810 - Reward: 0.30 ± 0.64
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 820 - Reward: 0.10 ± 0.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 830 - Reward: 0.20 ± 0.60
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 840 - Reward: 0.60 ± 1.20
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 850 - Reward: 0.20 ± 0.60
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 860 - Reward: 0.40 ± 0.66
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 870 - Reward: 0.00 ± 0.00
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 880 - Reward: 0.90 ± 1.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 890 - Reward: 0.40 ± 0.80
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 900 - Reward: 0.30 ± 0.46
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 910 - Reward: 0.10 ± 0.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 920 - Reward: 0.10 ± 0.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 930 - Reward: 0.10 ± 0.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 940 - Reward: 0.30 ± 0.64
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 950 - Reward: 0.30 ± 0.46
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 960 - Reward: 0.20 ± 0.40
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 970 - Reward: 0.30 ± 0.64
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 980 - Reward: 0.10 ± 0.30
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+[EVAL] bigfish - Update 990 - Reward: 0.40 ± 0.92
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored
+Warning: early reset ignored

@@ -1,0 +1,5 @@
+2025-09-05 22:13:04,486 INFO    StreamThr :28020 [internal.py:wandb_internal():86] W&B internal server running at pid: 28020, started at: 2025-09-05 22:13:04.484906
+2025-09-05 22:13:04,488 DEBUG   HandlerThread:28020 [handler.py:handle_request():146] handle_request: status
+2025-09-05 22:13:04,499 INFO    WriterThread:28020 [datastore.py:open_for_write():85] open: C:\Users\Acer\Documents\GitHub\aas\wandb\run-20250905_221304-2119llpe\run-2119llpe.wandb
+2025-09-05 22:13:04,501 DEBUG   SenderThread:28020 [sender.py:send():380] send: header
+2025-09-05 22:13:04,501 DEBUG   SenderThread:28020 [sender.py:send():380] send: run
